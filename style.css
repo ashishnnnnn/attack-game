@@ -146,7 +146,7 @@ body {
   .start-btn {
     position: absolute;
     top: 13rem;
-    left: 1.2rem;
+    left: 1.5rem;
   }
 
   .game-body {
@@ -221,7 +221,7 @@ body {
 
   .round-num {
     top: 10rem;
-    left: 6rem;
+    left: 7rem;
   }
 
   .won-result {
